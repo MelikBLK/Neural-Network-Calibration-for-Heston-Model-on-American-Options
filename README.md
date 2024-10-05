@@ -48,7 +48,7 @@ You can also find the aforementionned dataset along with **AAPL option chains fr
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/MelikBKL/Neural-Network-Calibration-for-Heston-Model-on-American-Options.git
+   git clone https://github.com/MelikBLK/Neural-Network-Calibration-for-Heston-Model-on-American-Options.git
    ```
 
 2. Install the required Python libraries:
