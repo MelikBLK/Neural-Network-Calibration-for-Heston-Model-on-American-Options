@@ -21,7 +21,7 @@ This project focuses on calibrating the **Heston Stochastic Volatility Model** u
 
 The dataset for this project is based on **AAPL option chains** from **Q1 of 2016 to Q4 of 2020**. These options data include key information required for calibrating the Heston model, such as strike prices, expiration dates, and implied volatilities.
 
-You can also find extended datasets, including **AAPL option chains from Q1 2021 to 2023**. However, due to their large size, I wasn't able to upload them directly in the repository. Instead, you can find a **Link to datasets.txt** file that redirects you to the kaggle page, from where I download the datasets.
+You can also find extended datasets, including **AAPL option chains from Q1 2021 to 2023**. However, due to their large size, I wasn't able to upload them directly in the repository. Instead, you can find a **Link to datasets.txt** file that redirects you to the kaggle page, from where I downloaded these datasets.
 
 ⚠️ **Note:** You need to update the dataset path in the code to point to the location where the dataset is stored on your local machine. Modify the following line in the notebook:
 
